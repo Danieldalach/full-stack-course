@@ -1,0 +1,128 @@
+h1 {
+text-align: center;
+ font-family: sofia;
+font-size: 60px;}
+ 
+.center {
+margin:auto;
+width:600px;
+/* background-image: url("formbg.jpg") ;  */
+text-align: center;
+margin-top: 10px;}
+
+ div.date input, div.time input  {
+     margin: 0px;
+     margin-top: 15px;
+     width: 220px;
+      background: transparent;
+     border: none; 
+     }
+
+
+.row{
+        height: 250px;
+        }
+
+body{
+background-image: url("tile.jpg") } 
+
+
+.list, .w3-container{
+    background-image:url("notebg.png") ;
+    width: 200px; 
+    height: 250px;
+    margin-left: 20px;
+    padding: 0%; }
+
+    .a{
+        margin-top: -15px;
+        margin-left: 5px;
+    width: 170px; 
+    height: 150px;
+    overflow: auto;
+    text-align: left;}
+
+    .b{
+        margin-top: 6px;
+        margin-left: 5px;
+        font-weight:bold;
+        text-align: left;}
+    
+    .c{
+       margin-left: 5px;
+       font-weight:bold;
+       text-align: left;}
+
+    #details{
+        background-image: url("formbg.jpg");
+        margin: 0px;
+        width: 630px;
+        margin-bottom: 10px;
+        border: 0ch;
+        margin-left: -30px;
+        resize: none;
+        outline: 0px none transparent;
+        }
+
+    .date{
+        background-image: url("formbg.jpg");
+        margin-top: -31px;
+        color: blue;
+        margin-left: -30px;
+
+        }
+
+        
+
+    .time{
+        background-image: url("formbg.jpg");
+        margin-top: 0px;
+        margin-left: -30px;
+        }
+    
+    .btn-default{
+        font-size: 17px;
+    margin-top: 20px;
+    margin-left: 142px;
+    margin-right: 50px;
+    /* border-radius: 50%; */
+    border: 0ch;
+    background-color: transparent;
+    color: transparent;
+    
+     }
+
+     .list:hover .btn-default{
+    background-color: transparent;
+    position: relative;
+    color: red;
+    outline: 0px none transparent;
+
+}
+.w3-container:hover .btn-default{
+    background-color: transparent;
+    position: relative;
+    color: red;
+    outline: 0px none transparent;
+
+}
+
+
+
+     .btn input {
+        border-radius: 20%;
+        height: 40px;
+        width: 250px; 
+        font-weight:bold;
+        
+        } 
+
+        img {
+display: block;
+margin-left: auto;
+margin-right: auto; 
+margin-top: 15px;
+}
+
+   
+
